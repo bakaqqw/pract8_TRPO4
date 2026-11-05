@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\st310-04\\Desktop\\\u0423\u0434\u0438\u043B\u043E\u0432 \u0418\u043B\u044C\u044F \u041F\u0420-42\\pract8_TRPO4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B20B1375-74C9-4ED9-A3F3-52CC577C9DF6}|pract8_TRPO4.csproj|c:\\users\\st310-04\\desktop\\\u0443\u0434\u0438\u043B\u043E\u0432 \u0438\u043B\u044C\u044F \u043F\u0440-42\\pract8_trpo4\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B20B1375-74C9-4ED9-A3F3-52CC577C9DF6}|pract8_TRPO4.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B20B1375-74C9-4ED9-A3F3-52CC577C9DF6}|pract8_TRPO4.csproj|c:\\users\\st310-04\\desktop\\\u0443\u0434\u0438\u043B\u043E\u0432 \u0438\u043B\u044C\u044F \u043F\u0440-42\\pract8_trpo4\\authrequets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B20B1375-74C9-4ED9-A3F3-52CC577C9DF6}|pract8_TRPO4.csproj|solutionrelative:authrequets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B20B1375-74C9-4ED9-A3F3-52CC577C9DF6}|pract8_TRPO4.csproj|c:\\users\\st310-04\\desktop\\\u0443\u0434\u0438\u043B\u043E\u0432 \u0438\u043B\u044C\u044F \u043F\u0440-42\\pract8_trpo4\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B20B1375-74C9-4ED9-A3F3-52CC577C9DF6}|pract8_TRPO4.csproj|solutionrelative:controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B20B1375-74C9-4ED9-A3F3-52CC577C9DF6}|pract8_TRPO4.csproj|c:\\users\\st310-04\\desktop\\\u0443\u0434\u0438\u043B\u043E\u0432 \u0438\u043B\u044C\u044F \u043F\u0440-42\\pract8_trpo4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B20B1375-74C9-4ED9-A3F3-52CC577C9DF6}|pract8_TRPO4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthRequets.cs",
+              "DocumentMoniker": "C:\\Users\\st310-04\\Desktop\\\u0423\u0434\u0438\u043B\u043E\u0432 \u0418\u043B\u044C\u044F \u041F\u0420-42\\pract8_TRPO4\\AuthRequets.cs",
+              "RelativeDocumentMoniker": "AuthRequets.cs",
+              "ToolTip": "C:\\Users\\st310-04\\Desktop\\\u0423\u0434\u0438\u043B\u043E\u0432 \u0418\u043B\u044C\u044F \u041F\u0420-42\\pract8_TRPO4\\AuthRequets.cs",
+              "RelativeToolTip": "AuthRequets.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T06:20:57.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\st310-04\\Desktop\\\u0423\u0434\u0438\u043B\u043E\u0432 \u0418\u043B\u044C\u044F \u041F\u0420-42\\pract8_TRPO4\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\st310-04\\Desktop\\\u0423\u0434\u0438\u043B\u043E\u0432 \u0418\u043B\u044C\u044F \u041F\u0420-42\\pract8_TRPO4\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "Controllers\\TaskController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T04:41:02.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\st310-04\\Desktop\\\u0423\u0434\u0438\u043B\u043E\u0432 \u0418\u043B\u044C\u044F \u041F\u0420-42\\pract8_TRPO4\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\st310-04\\Desktop\\\u0423\u0434\u0438\u043B\u043E\u0432 \u0418\u043B\u044C\u044F \u041F\u0420-42\\pract8_TRPO4\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAA1wEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T04:30:13.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\st310-04\\Desktop\\\u0423\u0434\u0438\u043B\u043E\u0432 \u0418\u043B\u044C\u044F \u041F\u0420-42\\pract8_TRPO4\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\st310-04\\Desktop\\\u0423\u0434\u0438\u043B\u043E\u0432 \u0418\u043B\u044C\u044F \u041F\u0420-42\\pract8_TRPO4\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T04:22:08.791Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 516,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
